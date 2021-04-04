@@ -23,7 +23,7 @@ const App = () => {
             <div className={classes.alert}>
                 <AlertIcon />
             </div>
-            <Router>
+            {/* <Router>
                 <Switch>
                     <Route exact path="/">
                         <Timer />
@@ -32,7 +32,8 @@ const App = () => {
                         <ResultScreen />
                     </Route>
                 </Switch>
-            </Router>
+            </Router> */}
+                        <Timer />
         </div>
     )
 }
