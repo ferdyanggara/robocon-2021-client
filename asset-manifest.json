@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/robocon-2021-client/static/css/main.ed19725f.chunk.css",
-    "main.js": "/robocon-2021-client/static/js/main.2615043b.chunk.js",
-    "main.js.map": "/robocon-2021-client/static/js/main.2615043b.chunk.js.map",
-    "runtime-main.js": "/robocon-2021-client/static/js/runtime-main.f787c715.js",
-    "runtime-main.js.map": "/robocon-2021-client/static/js/runtime-main.f787c715.js.map",
+    "main.js": "/robocon-2021-client/static/js/main.aaefe722.chunk.js",
+    "main.js.map": "/robocon-2021-client/static/js/main.aaefe722.chunk.js.map",
+    "runtime-main.js": "/robocon-2021-client/static/js/runtime-main.b0dc595a.js",
+    "runtime-main.js.map": "/robocon-2021-client/static/js/runtime-main.b0dc595a.js.map",
     "static/css/2.2374330a.chunk.css": "/robocon-2021-client/static/css/2.2374330a.chunk.css",
-    "static/js/2.9b1edda6.chunk.js": "/robocon-2021-client/static/js/2.9b1edda6.chunk.js",
-    "static/js/2.9b1edda6.chunk.js.map": "/robocon-2021-client/static/js/2.9b1edda6.chunk.js.map",
-    "static/js/3.ea48b604.chunk.js": "/robocon-2021-client/static/js/3.ea48b604.chunk.js",
-    "static/js/3.ea48b604.chunk.js.map": "/robocon-2021-client/static/js/3.ea48b604.chunk.js.map",
+    "static/js/2.d905f743.chunk.js": "/robocon-2021-client/static/js/2.d905f743.chunk.js",
+    "static/js/2.d905f743.chunk.js.map": "/robocon-2021-client/static/js/2.d905f743.chunk.js.map",
+    "static/js/3.9cd38d4f.chunk.js": "/robocon-2021-client/static/js/3.9cd38d4f.chunk.js",
+    "static/js/3.9cd38d4f.chunk.js.map": "/robocon-2021-client/static/js/3.9cd38d4f.chunk.js.map",
     "index.html": "/robocon-2021-client/index.html",
     "static/css/2.2374330a.chunk.css.map": "/robocon-2021-client/static/css/2.2374330a.chunk.css.map",
     "static/css/main.ed19725f.chunk.css.map": "/robocon-2021-client/static/css/main.ed19725f.chunk.css.map",
-    "static/js/2.9b1edda6.chunk.js.LICENSE.txt": "/robocon-2021-client/static/js/2.9b1edda6.chunk.js.LICENSE.txt",
+    "static/js/2.d905f743.chunk.js.LICENSE.txt": "/robocon-2021-client/static/js/2.d905f743.chunk.js.LICENSE.txt",
     "static/media/GameField.327b5015.png": "/robocon-2021-client/static/media/GameField.327b5015.png",
     "static/media/index.css": "/robocon-2021-client/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.f787c715.js",
+    "static/js/runtime-main.b0dc595a.js",
     "static/css/2.2374330a.chunk.css",
-    "static/js/2.9b1edda6.chunk.js",
+    "static/js/2.d905f743.chunk.js",
     "static/css/main.ed19725f.chunk.css",
-    "static/js/main.2615043b.chunk.js"
+    "static/js/main.aaefe722.chunk.js"
   ]
 }
